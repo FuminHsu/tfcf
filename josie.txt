@@ -1,6 +1,1 @@
-test
-<<<<<<< HEAD
-test lydia
-=======
-hello 
->>>>>>> 478a6ada937fb146fc42c22b08cc5d060d5d0e18
+josie
