@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-AAAAA
-
-=======
 5555
->>>>>>> update a.txt to 5555
