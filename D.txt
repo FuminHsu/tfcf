@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 sayumiaaa
 
 dfasdfas
+=======
+sayumi
+
+
+hiiiiiiiiii~~~
+>>>>>>> 8cce358cda7f3139f9861ca62d1a45a7fb54253e
